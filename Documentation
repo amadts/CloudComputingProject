@@ -1,3 +1,13 @@
-Benchmarks selected for evaluation:
+#Project Documentation
+Benchmarks selected for evaluation: 
+- STREAM - Memory bandwidth
+- nuttcp - Network bandwidth (comparison between two systems)
+- netperf - Round-trip network latency
+- RandomAccess - Performance of Random Memory
 
 Automated installation:
+- We will be evaluating the performance of Docker based on the four benchmarks above.
+- Set up a CloudLab profile and experiment
+- Wait for experiment to boot
+- SSH into instance provided by CloudLab
+- Extend the experiment as necessary
