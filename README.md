@@ -7,4 +7,4 @@ Group Members:
 - Ethan Archibald
 - Matthew Tomko
 
-Project description:
+Project description: Hosting an online chat server
