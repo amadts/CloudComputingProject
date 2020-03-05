@@ -7,4 +7,4 @@ Group Members:
 - Ethan Archibald
 - Matthew Tomko
 
-Project description: Hosting an online chat server
+Project description: Performance evaluation - Benchmark Testing (STREAM, nuttcp, netperf, RandomAccess)
