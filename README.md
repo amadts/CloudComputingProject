@@ -7,4 +7,4 @@ Group Members:
 - Ethan Archibald
 - Matthew Tomko
 
-Project description: Docker performance evaluation - Benchmark Testing (we will be using the STREAM, nuttcp, netperf, and RandomAccess for performance evaluation)
+Project description: Docker performance evaluation - Benchmark Testing (we will be using the STREAM, nuttcp, netperf, and RandomAccess benchmarks for performance evaluation)
