@@ -9,6 +9,8 @@ Group Members:
 
 Project description: Docker performance evaluation - Benchmark Testing (we will be using the STREAM, nuttcp, netperf, and RandomAccess benchmarks for performance evaluation)
 
+CloudLab Profile: https://www.cloudlab.us/show-profile.php?uuid=5d663ac2-5fde-11ea-b1eb-e4434b2381fc
+
 Instructions for Deployment:
 1. Instantiate master branch on CloudLab (the other branches no longer exist; we were originally going to use different branches to run the different benchmarks but eventualy decided against it)
 2. Wait for experiment to start, then SSH into head node
